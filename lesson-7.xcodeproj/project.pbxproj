@@ -8,6 +8,18 @@
 
 /* Begin PBXBuildFile section */
 		8E1CDF882940B9C400EF95D0 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E1CDF872940B9C400EF95D0 /* main.swift */; };
+		8E1CDF8F2940C16A00EF95D0 /* Company.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E1CDF8E2940C16A00EF95D0 /* Company.swift */; };
+		8E1CDF912940C6A800EF95D0 /* Storage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E1CDF902940C6A800EF95D0 /* Storage.swift */; };
+		8E1CDF93294270EA00EF95D0 /* Products.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E1CDF92294270EA00EF95D0 /* Products.swift */; };
+		8E1CDF9629427EE900EF95D0 /* Apple.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E1CDF9529427EE900EF95D0 /* Apple.swift */; };
+		8E1CDF9829427FBD00EF95D0 /* Samsung.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E1CDF9729427FBD00EF95D0 /* Samsung.swift */; };
+		8E1CDF9A29427FEC00EF95D0 /* Zara.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E1CDF9929427FEC00EF95D0 /* Zara.swift */; };
+		8E1CDF9C2942808F00EF95D0 /* H&M.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E1CDF9B2942808F00EF95D0 /* H&M.swift */; };
+		8E1CDF9E294280D600EF95D0 /* IKEA.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E1CDF9D294280D600EF95D0 /* IKEA.swift */; };
+		8E1CDFA02942812D00EF95D0 /* Kulikov.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E1CDF9F2942812D00EF95D0 /* Kulikov.swift */; };
+		8E1CDFA2294281AA00EF95D0 /* Shoro.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E1CDFA1294281AA00EF95D0 /* Shoro.swift */; };
+		8E1CDFA42942823000EF95D0 /* Neman.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E1CDFA32942823000EF95D0 /* Neman.swift */; };
+		8E1CDFA8294282CF00EF95D0 /* BeautyShowroom.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E1CDFA7294282CF00EF95D0 /* BeautyShowroom.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +37,18 @@
 /* Begin PBXFileReference section */
 		8E1CDF842940B9C400EF95D0 /* lesson-7 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "lesson-7"; sourceTree = BUILT_PRODUCTS_DIR; };
 		8E1CDF872940B9C400EF95D0 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		8E1CDF8E2940C16A00EF95D0 /* Company.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Company.swift; sourceTree = "<group>"; };
+		8E1CDF902940C6A800EF95D0 /* Storage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Storage.swift; sourceTree = "<group>"; };
+		8E1CDF92294270EA00EF95D0 /* Products.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Products.swift; sourceTree = "<group>"; };
+		8E1CDF9529427EE900EF95D0 /* Apple.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Apple.swift; sourceTree = "<group>"; };
+		8E1CDF9729427FBD00EF95D0 /* Samsung.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Samsung.swift; sourceTree = "<group>"; };
+		8E1CDF9929427FEC00EF95D0 /* Zara.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Zara.swift; sourceTree = "<group>"; };
+		8E1CDF9B2942808F00EF95D0 /* H&M.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "H&M.swift"; sourceTree = "<group>"; };
+		8E1CDF9D294280D600EF95D0 /* IKEA.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IKEA.swift; sourceTree = "<group>"; };
+		8E1CDF9F2942812D00EF95D0 /* Kulikov.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Kulikov.swift; sourceTree = "<group>"; };
+		8E1CDFA1294281AA00EF95D0 /* Shoro.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Shoro.swift; sourceTree = "<group>"; };
+		8E1CDFA32942823000EF95D0 /* Neman.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Neman.swift; sourceTree = "<group>"; };
+		8E1CDFA7294282CF00EF95D0 /* BeautyShowroom.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BeautyShowroom.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,8 +82,28 @@
 			isa = PBXGroup;
 			children = (
 				8E1CDF872940B9C400EF95D0 /* main.swift */,
+				8E1CDF8E2940C16A00EF95D0 /* Company.swift */,
+				8E1CDF902940C6A800EF95D0 /* Storage.swift */,
+				8E1CDF9429427E7D00EF95D0 /* Products */,
 			);
 			path = "lesson-7";
+			sourceTree = "<group>";
+		};
+		8E1CDF9429427E7D00EF95D0 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				8E1CDF92294270EA00EF95D0 /* Products.swift */,
+				8E1CDF9529427EE900EF95D0 /* Apple.swift */,
+				8E1CDF9729427FBD00EF95D0 /* Samsung.swift */,
+				8E1CDF9929427FEC00EF95D0 /* Zara.swift */,
+				8E1CDF9B2942808F00EF95D0 /* H&M.swift */,
+				8E1CDF9D294280D600EF95D0 /* IKEA.swift */,
+				8E1CDF9F2942812D00EF95D0 /* Kulikov.swift */,
+				8E1CDFA1294281AA00EF95D0 /* Shoro.swift */,
+				8E1CDFA32942823000EF95D0 /* Neman.swift */,
+				8E1CDFA7294282CF00EF95D0 /* BeautyShowroom.swift */,
+			);
+			path = Products;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -121,6 +165,18 @@
 			buildActionMask = 2147483647;
 			files = (
 				8E1CDF882940B9C400EF95D0 /* main.swift in Sources */,
+				8E1CDF93294270EA00EF95D0 /* Products.swift in Sources */,
+				8E1CDF9829427FBD00EF95D0 /* Samsung.swift in Sources */,
+				8E1CDF8F2940C16A00EF95D0 /* Company.swift in Sources */,
+				8E1CDF912940C6A800EF95D0 /* Storage.swift in Sources */,
+				8E1CDFA42942823000EF95D0 /* Neman.swift in Sources */,
+				8E1CDF9E294280D600EF95D0 /* IKEA.swift in Sources */,
+				8E1CDFA8294282CF00EF95D0 /* BeautyShowroom.swift in Sources */,
+				8E1CDF9629427EE900EF95D0 /* Apple.swift in Sources */,
+				8E1CDF9A29427FEC00EF95D0 /* Zara.swift in Sources */,
+				8E1CDF9C2942808F00EF95D0 /* H&M.swift in Sources */,
+				8E1CDFA02942812D00EF95D0 /* Kulikov.swift in Sources */,
+				8E1CDFA2294281AA00EF95D0 /* Shoro.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
